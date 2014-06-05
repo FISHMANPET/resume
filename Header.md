@@ -1,9 +1,7 @@
 <div class='row' id='contact'>
-# Kevin Klaes
-- Kevin.Klaes@gmail.com
-- 612.234.1645
-- [kevinkla.es](http://kevinkla.es)
-- [github.com/KevinKlaes](https://github.com/KevinKlaes)
-- <address>2732 Grand Ave S,<br/>
-  Minneapolis, MN 55408</address>
+# Peter Bajurny
+- peter@bajurny.us
+- 612.208.6618
+- <address>1901 Minnehaha Ave Apt 204<br/>
+  Minneapolis, MN 55404</address>
 </div><!-- #contact.row -->
