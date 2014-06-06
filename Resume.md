@@ -1,14 +1,11 @@
 <div class='row' id='experience'>
 <div class='col-xs-12'>
 ## Experience
-### University of Minnesota: Twin Cities
-#### Web Developer and Systems Administrator (January 2013 - Present)
-- Maintained and improved internal department applications with backend in Django. Applications utilized HTML5 and Javascript/Jquery to enhance the user application and experience. Implemented a REST API using Django Rest Framework to decouple frontend and backend code.
-- Implemented test driven development for all new features and wrote tests for legacy code after documenting the purpose and evaluating the functionality.
-- Collected and detailed requirements for new and existing features. Self initiated effort to improve undocumented code and increase compliancy with best standard coding practices (PEP8, DRY, TDD). 
-- Secured web applications by introducing and working with application owners and users to define access controls to specific parts of their applications. 
-- Reduced redundant user input by implementing and improving backend workflows.
-- Advised and worked with faculty to develop professional websites (primarily [Math Insight](http://mathinsight.org)), improve useability, and encourage software development best practices.
+### University of Minnesota Computer Science Department, Minneapolis, MN
+#### Systems Administrator (January 2010 - Present)
+- Rebuilt two Active Directory domains from scratch and integrated with System Center Configuration Manager
+- Integrated four departments totalling over 500 computers into UMNAD
+- Integrated departments with Unix infrastructure including NIS and LDAP into 
 
 #### Student Web Developer (March 2012 - January 2013)
 - Rebuilt department event application and integrated with Google Calendar to increase visibility to students and encourage subscriptions.
