@@ -2,27 +2,21 @@
 <div class='col-xs-12'>
 ## Experience
 ### University of Minnesota Computer Science Department, Minneapolis, MN
-#### Systems Administrator (January 2010 - Present)
+#### System Administrator (January 2010 - Present)
 - Rebuilt two Active Directory domains from scratch and integrated with System Center Configuration Manager
 - Integrated four departments totalling over 500 computers into UMNAD
-- Integrated departments with Unix infrastructure including NIS and LDAP into 
+- Integrated departments with Unix infrastructure including NIS and LDAP into UMNAD
+- Managed 5 VMware hosts in 2 clusters with over 100 guests
+- Installed, managed, and updated Windows Server 2003 – 2012R2
+- Installed, managed, and updated Windows XP – 7 using SCCM 2007 and SCCM 2012
+- Designed, updated, and maintained OSD Task Sequences
+- Use scripts to manage and automate systems, including user creation, <blah blah blah>
 
-#### Student Web Developer (March 2012 - January 2013)
-- Rebuilt department event application and integrated with Google Calendar to increase visibility to students and encourage subscriptions.
-- Basic tech support tasks including replacing and rebuilding desktop machines, troubleshooting printers, and triaging and solving issue tickets.
 
-### Rainbow Health Initiative
-#### Volunteer Web Developer (July 2013 - September 2013)
-- Worked with Rainbow Health Initiative to create and deploy an online survey to collect data on the LGBT community of Minnesota.
-- Provided backend code in Django to collect data and data export solutions.
-- Trained RHI webmaster to deploy application.
-
-### Learning RX
-#### Brain Trainer (May 2012 - October 2012)
-- Trained students according to LearningRX training procedures.
-- Documented progress of students through the LearningRX program.
-</div><!-- .col-xs-12 -->
-</div><!-- #experience -->
+#### Student System Administrator (Sept 2007 - January 2009)
+- Student position
+- Worked at helpdesk
+- Assist full time staff with tasks covering the full range of operations
 
 <div id='skills' class='row'>
 <div class='col-xs-12'>
@@ -69,9 +63,7 @@
 <div id='education' class='row'>
 <div class='col-xs-12'>
 ## Education
-### Bachelor's of Science in Mathematics 
-#### University of Minnesota: Twin Cities (Spring 2013)
-- Coursework at the University of Minnesota focued on actuarial mathematics, intermediate economics courses, and cryptography. 
-- Attended the University of Minnesota: Duluth from Fall 2004 until Spring 2006 with the intent to major in Computer Science.
+### Bachelor's of Science in Computer Science 
+#### University of Minnesota, Minneapolis, MN, August 2011
 </div><!-- .col-xs-12 -->
 </div><!-- #education -->
