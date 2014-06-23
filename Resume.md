@@ -17,9 +17,9 @@ Windows systems administrator with four years of experience in VMWare, Windows S
 - Installed, managed, and updated Windows XP and 7 using SCCM 2007 and SCCM 2012.
 - Designed, updated, and maintained OSD Task Sequences.
 - Provided critical evaluation and input for major projects during planning and evaluation phases.
-- Used scripts to manage and automate tasks including account management, virtual machine provisioning, and backups.
+- Created and used scripts to manage and automate tasks including account management, virtual machine provisioning, and backups.
 
-#### Student System Administrator (September 2007 - January 2009)
+#### Student System Administrator (September 2007 - January 2010)
 - Provided tier one support for faculty, staff, and students for accounts, files, computers and software.
 - Managed and directed other student workers after a year of expeience.
 - Routed and escalated tickets in a ticketing system to the appropriate technical contacts.
